@@ -1,7 +1,7 @@
 Eduardo adasme
 	1 kg papas
 	1 kg manzanas
-
+  
 Rodolfo Stazzi 
         1 Papel de arroz
 	2 Encendedores
@@ -10,3 +10,7 @@ Rodolfo Stazzi
 Diego Villagran
 	2 kg Marraquetas $3990
 	2 kg Palta Hass $13990
+  
+Herval Maturana
+	1 kg Pancito
+	1 kg Jamoncito
